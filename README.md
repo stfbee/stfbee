@@ -6,4 +6,5 @@
 - [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox) - Git status display, auto fetch and more
 - [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) - case switching, sorting, filtering, incrementing, aligning to columns, grepping, escaping, encoding...
 - [Markdown](https://plugins.jetbrains.com/plugin/7793-markdown) by Jetbains
-- [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
+- [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets) and [Indent Rainbow
+](https://plugins.jetbrains.com/plugin/13308-indent-rainbow)
